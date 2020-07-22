@@ -1186,8 +1186,8 @@ open class AdvancedFabMenu @JvmOverloads constructor(
         const val LABEL_POSITION_RIGHT = 1
 
 
-        const val OPENED_PLUS_ROTATION_LEFT = -90f - 45f
-        const val OPENED_PLUS_ROTATION_RIGHT = 90f + 45f
+        const val OPENED_PLUS_ROTATION_LEFT = -90f - 270f
+        const val OPENED_PLUS_ROTATION_RIGHT = 90f + 270f
 
 
         const val CLOSED_PLUS_ROTATION = 0f
